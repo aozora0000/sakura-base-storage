@@ -14,7 +14,7 @@
     "aws-sdk": "*",
     "node-watch": "*",
     "mime": "*"
-  }
+  },
   "keywords": [
     "node",
     "sakura",
