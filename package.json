@@ -1,0 +1,29 @@
+{
+  "name": "sakura-base-storage",
+  "version": "0.0.0",
+  "description": "sakura base storage access script",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aozora0000/sakura-base-storage"
+  },
+  "dependencies": {
+    "aws-sdk": "*",
+    "node-watch": "*",
+    "mime": "*"
+  }
+  "keywords": [
+    "node",
+    "sakura",
+    "s3"
+  ],
+  "author": "aozora0000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aozora0000/sakura-base-storage/issues"
+  },
+  "homepage": "https://github.com/aozora0000/sakura-base-storage"
+}
